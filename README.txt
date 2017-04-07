@@ -1,4 +1,4 @@
-Welcome to My First Repo
+Welcome to the First Repo
 
 ----------------------------------------
 This repo is a practice repo...for seting up shh
